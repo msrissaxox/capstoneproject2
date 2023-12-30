@@ -5,8 +5,14 @@
 
 b388eb */
 
-.top-section {
-    background-color: #72ddf7;
-    border: solid;
+.background1 {
+   background-color:  #72ddf750;
 }
 
+.background2 {
+    background-color: #8093f150;
+}
+
+.background3 {
+    background-color: #b388eb50;
+}
