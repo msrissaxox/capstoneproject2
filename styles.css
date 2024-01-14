@@ -6,15 +6,15 @@
 b388eb */
 
 .background1 {
-   background-color:  #FAE7F3;
+   background-color:  #f7f7f7;
 }
 
 .background2 {
-    background-color: #E6B9DE;
+    background-color: #efefef;
 }
 
 .background3 {
-    background-color: #FAE7F3;
+    background-color: #f7f7f7;
 }
 /*.backgroundimage {
     background: url("./Assets/marissa.jpg");
@@ -39,7 +39,9 @@ b388eb */
     padding-bottom: 50px;
 }
 
-
+.font {
+    font-family: 'Raleway', sans-serif;
+}
 /*giphy links for site:
 Thank God I took that coding course
 <iframe src="https://giphy.com/embed/scZPhLqaVOM1qG4lT9" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/scaler-official-monday-computer-laptop-scZPhLqaVOM1qG4lT9">via GIPHY</a></p>
